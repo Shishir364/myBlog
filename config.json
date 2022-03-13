@@ -1,0 +1,23 @@
+{
+    "para":
+    {
+        "local_host": "sqlite:///blog.db",
+        "blog_name": "My Coding Block",
+        "blog_title":"Let's Code ",
+        "linkdin_link" : "https://linkedin.com/in/shishir-patel-95a655180",
+        "git_link" : "https://github.com/Shishir364", 
+        "tut_link" : "",
+        "about_text" : "My name is shishir i am create this blog for python user .",
+        "no_of_posts" : 2,
+        "admin_login" : "patelshishir364@gmail.com",
+        "admin_pass" : "shishir",
+        "upload_location" : "A:\\python\\myprogram\\My_website_1\\static\\assets\\img"
+
+    }
+    
+}
+
+
+
+
+
